@@ -23,37 +23,57 @@ institutions that have a limited population and also to report non-compliance.
 * Logged in users should select an institution category
 
 * Users should be able to reserve a spot
-* Return a unique reservation if there is space and tell users if there is no space
+* Return a unique reservation if there is space and tell users if there is no space 
 * Users should be able to report non-compliance acts observed
 
+## LITERATURE REVIEW
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered
+coronavirus. The virus that causes COVID-19 is a novel coronavirus that was first identified
+during an investigation into an outbreak in Wuhan, China in 2019. Since then, the virus has
+spread to more than 100 countries, including our country Botswana. The virus is spread mainly
+from person-to-person through close contact with one another (less than 1- 2 meters apart),
+Respiratory droplets produced when an infected person coughs or sneezes and also touching a
+surface or object that has the virus on it and then touching their own mouth, nose, or possibly
+their eyes[1]. The virus currently has no cure and it claimed over half a million lives worldwide
+making it a national threat[2].
+The virus has thus changed the normal way in which the operate/behave in institutions, it has
+brought about new laws being made to try and enforce compliance in different institutions so
+as to reduce the spread of the virus. Institutions are defined as organizations founded for a
+religious, educational, professional, or social purpose[3]. These different types institutions
+encourage the gathering of people and thus the rapid spread of the virus in case one person
+might be unknowingly infected.
+It has also led to the development of many compliance applications in various countries.
 
-## Welcome to GitHub Pages
+### COVID-19 Remote Monitoring & Compliance Application
+Connected Life created a scalable COVID-19 case remote monitoring, reporting and compliance
+solution to help our population. Optimized for the Fitbit Versa 2 and with emphasis on
+supporting the needs of healthcare workers, patients and their families, essential workers and
+community volunteers. It is available in Singapore and other selected APAC territories and in
+Europe and USA in June 2020 (GDPR and HIPPA compliance for Europe and USA by June 2020).
 
-You can use the [editor on GitHub](https://github.com/aubrey970/tsotlhe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Strengths
+* Mass Remote Monitoring & Compliance
+* Easy to onboard and use
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Weakeness
+* Not available in certain parts of the wold
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## TECHNOGOLOGY ASSESSMENT IN BOTSWANA
+In all the villages, towns, and cities across Botswana, many adolescents, adults, and elderly
+people own and use a mobile phone. Local networks have continued to extend mobile phone
+signals and mobile-enabled services countrywide, while the Botswana government has
+committed itself to networking the villages that have been underserved by the local networks.
+Subsequently, young people in Botswana adopt mobile phones, as the devices promise them
+extensive access public and social services as well access to the internet[4].
+Currently there is no known compliance application in Botswana that is being used to make
+sure that different institutions comply with the new set laws to combat COVID-19. There is no
+any form of technology which helps different institutions to control the number of people that
+come or gather in their institutions.
+Population of people is controlled manually in different institutions without the use of any
+advanced technology. They count the number of people that get in and if the population
+exceeds 75 some people will have to be sent back. If Institutions do not comply the only way
+law enforcement officers will know either by complaint call from the public or if they are doing
+a survey to ensure compliance.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
